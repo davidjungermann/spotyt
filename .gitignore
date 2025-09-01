@@ -1,0 +1,5 @@
+.env
+.cache
+.ropeproject
+.python-version
+downloads/
